@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Assets.Scripts.Data
+namespace Persistence.Data
 {
     [Serializable]
     public class HighScoreData
